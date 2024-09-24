@@ -1,12 +1,10 @@
+.DS_Store
 Barron’s – September 2, 2024.pdf
-China Report – September 2024.pdf
 Django_基础教程.pdf
-Django开发宝典.pdf
 Machine Learning-The Basic.pdf
 Machine_Learning_in_Action.pdf
-Python机器学习（原书第2版）_塞巴斯蒂安·拉施卡_瓦希德·米尔贾利利.pdf
-玩转Django 2.0_黄永祥(著) .pdf
+The Vietnam War A Concise Internation... (Z-Library).pdf
+The Washington Post-23.09.2024.pdf
+读者-第8期2024.epub
 轻量级Django.pdf
 新东方·GRE再要你命3K系列_核.epub
-免疫功能90天复原方案_作者_苏珊·布卢姆 米歇尔·本德 王树岩.pdf
-企业开发实战_by_胡阳_z_lib_org.pdf
